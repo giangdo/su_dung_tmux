@@ -33,9 +33,9 @@ Những tính năng cơ bản của TMUX:
   tình trạng sử dụng cpu/ram, thời tiết hiện tại ... 
 
 * Đọc theo thứ sau:
-   README.md
-   cai_dat_va_bat_dau_su_dung
-   lam_viec_voi_session
-   lam_viec_voi_windown_tab
-   lam_viec_voi_pane
-   tuy_bien_thanh_trang_thai_cua_tmux
+   + README.md
+   + cai_dat_va_bat_dau_su_dung
+   + lam_viec_voi_session
+   + lam_viec_voi_windown_tab
+   + lam_viec_voi_pane
+   + tuy_bien_thanh_trang_thai_cua_tmux
