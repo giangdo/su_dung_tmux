@@ -1,9 +1,0 @@
-* Tạo một session mới:
-   $tmux a -t <tên_session>
-
-* Tạm ngưng một session: (nhưng session này vẫn tồn tại)
-   <Prefix> - d
-
-* Chạy lại một session đã lưu:
-   $tmux a -t <tên_session>
-
