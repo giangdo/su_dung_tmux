@@ -4,6 +4,9 @@
 * Xóa một Window Tab:
    <Prefix> - C
 
+* Đổi tên Window Tab:
+   <Prefix> - ,
+
 * Di chuyển giữa các Window Tab:
    <Prefix> - <Số thứ tự của Window Tab muốn tới: 0, 1, 2...>
    

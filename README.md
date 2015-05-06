@@ -23,21 +23,22 @@ Những tính năng cơ bản của TMUX:
   đường kết nối không tốt đến nó.
 
 * Tạo ra nhiều Window Tab, mỗi Window Tab có thể bao gồm nhiều "Pane" trong đó.
-  Dùng phím tắt để di chuyển giữa các Window Tab
+  Ta có thể dùng phím tắt để di chuyển giữa các Window Tab.
 
-* Chia màn hình của từng Window TAb theo chiều dọc hay chiều ngang một cách tùy ý.
-  Mỗi phần terminal được chia này họat động như những terminal riêng rẽ và được gọi là các "pane".
+* Chia màn hình của từng Window Tab theo chiều dọc hay chiều ngang một cách tùy ý.
+  Mỗi phần terminal được chia này họat động như những terminal riêng rẽ và được gọi là các "Pane".
 
-* Cuộn để xem lịch sử hiển thị của một "Pane" trong tmux
-  Dùng hotkey để sao chép chuỗi ký tự (1 lý do nữa để vất con chuột đi :) )
+* Cuộn để xem lịch sử hiển thị của một "Pane" trong tmux.
+  Dùng hotkey để sao chép chuỗi ký tự (1 lý do nữa để vất con chuột đi :) ).
 
 * Thanh trạng thái (bottom line) trong TMUX cũng có thể được tùy biến để giúp ta hiển thị ngày/giờ,
   tình trạng sử dụng cpu/ram, thời tiết hiện tại ... 
 
 * Đọc theo thứ sau:
    + README.md
-   + cai_dat_va_bat_dau_su_dung
-   + lam_viec_voi_session
-   + lam_viec_voi_windown_tab
-   + lam_viec_voi_pane
-   + tuy_bien_thanh_trang_thai_cua_tmux
+   + cai_dat_va_bat_dau_su_dung.txt
+   + lam_viec_voi_session.txt
+   + lam_viec_voi_windown_tab.txt
+   + lam_viec_voi_pane.txt
+   + copy_mode_trong_tmux.txt
+   + tuy_bien_thanh_trang_thai_cua_tmux.txt
