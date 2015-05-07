@@ -8,3 +8,6 @@
    + Phía bên phải: 
       - trạng thái bộ nhớ/ memory hiện tại (cần phải cài thêm chương trình tmux-mem-cpu-load)
       - ngày giờ
+
+* Tham khảo những dự án sau để có thể tùy biến thanh trạng thái một cách đẹp đẽ và hữu dụng hơn:
+   https://github.com/erikw/tmux-powerline
