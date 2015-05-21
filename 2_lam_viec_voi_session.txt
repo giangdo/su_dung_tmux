@@ -1,5 +1,5 @@
 * Tạo một session mới:
-   $tmux a -t <tên_session>
+   $tmux new -s <tên_session>
 
 * Tạm ngưng một session: (nhưng session này vẫn tồn tại)
    <Prefix> - d
