@@ -26,7 +26,31 @@
    <Prefix> - z 
 
 * Thay đổi kích thước của một pane: mở rộng/thu hẹp lên/xuống trái/phải
-   <Prefix> - <Up Arrow>
-   <Prefix> - <Down Arrow>
-   <Prefix> - <Left Arrow>
-   <Prefix> - <Right Arrow>
+	+ Dùng hotkey:
+	   <Prefix> - <Up Arrow>
+	   <Prefix> - <Down Arrow>
+	   <Prefix> - <Left Arrow>
+	   <Prefix> - <Right Arrow>
+
+	+ Dùng lệnh: resize-pane (tham khảo cách gõ lệnh cho tmux trong phấn 1_cai_dat_va_bat_dau_su_dung.txt) 
+		VD: để thay đổi chiều cao của một pane thành 8 dòng.
+			 :resize-pane -y8
+
+* Thay đổi vị trí của pane trong 1 window: 
+	+ chuyển pane hiện tại đến vị trí trước đó:
+		<Prefix> - {
+	+ chuyển pane hiện tại đến vị trí tiếp theo:
+		<Prefix> - }
+
+* Di chuyển pane giữa các window:
+	+ chuyển pane hiện tại ra một window mới:
+		<Prefix> - !
+	+ chuyển pane hiện tại đến window đã được tạo rồi:
+		VD: chuyển pane hiện tại tới window 2
+		:join-pane -t 2
+		VD: chuyển window 2 thành một pane trong window hiện tại
+		:join-pane -s 2
+
+* Thay đổi layout của các panes: (từ chia ngang sang chia dọc)
+		<Prefix> - "khoảng trắng"
+

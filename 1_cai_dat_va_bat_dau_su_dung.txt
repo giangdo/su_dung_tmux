@@ -32,6 +32,13 @@
      Ví Dụ: Nếu thấy viết là Alt - s
          -> thì chỉ cần nhấn 2 phím Alt và s cùng lúc
 
+	+ Cách để gõ lệnh cho tmux: 
+		<Prefix> + ":"
+
+		-> Gõ hotkey <Prefix>, sau đó gõ dấu hai chấm
+
+		Trong hướng dẫn này nếu thấy ghi ":xxxx" thì "xxxx chính là lệnh của tmux.
+
 * Lưu ý về cấp bậc trong tmux:
    -> Một máy tính có thể có nhiều Tmux session chạy cùng lúc trên nó
       -> 1 session (một phiên làm việc) có thể chứa nhiều Window Tab
