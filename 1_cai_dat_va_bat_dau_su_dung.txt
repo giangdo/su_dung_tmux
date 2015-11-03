@@ -32,7 +32,7 @@
      Ví Dụ: Nếu thấy viết là Alt - s
          -> thì chỉ cần nhấn 2 phím Alt và s cùng lúc
 
-	+ Cách để gõ lệnh cho tmux: 
+   + Cách để gõ lệnh cho tmux: 
 		<Prefix> + ":"
 
 		-> Gõ hotkey <Prefix>, sau đó gõ dấu hai chấm
